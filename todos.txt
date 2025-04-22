@@ -2,3 +2,5 @@ Make soup
 Clean the code
 Buy paint
 Throw trash
+Master Python
+Buy cards
